@@ -1,0 +1,7 @@
+{
+    "keywords": ["date", "description", "out", "in", "balance", "transaction", "money", "debit", "credit", "type", "amount", "remarks", "number", 
+    "withdrawals", "deposits","Narration", "Chq./Ref.No.", "Value Dt", "Withdrawal Amt.", "Deposit Amt.", "Closing Balance"],
+    "lloyds_head": "Date                                                 Description                                                                                                            Type                                                                    Money In (£)                              Money Out (£)                                         Balance (£)",
+    
+    "HDFC_BANK": "    Date                                     Narration                                          Chq./Ref.No.             Value Dt        Withdrawal Amt.                 Deposit Amt.              Closing Balance"
+}
